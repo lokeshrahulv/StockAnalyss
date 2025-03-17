@@ -53,6 +53,6 @@ StockAnalyss is designed to provide accurate and up-to-date financial data, help
 ![Screenshot 2025-03-17 191656](https://github.com/user-attachments/assets/371ee6cf-7c8c-4ba2-acfe-d7af98d8073f)
 
 # 📞 Contact Info
-Email: lokeshrahulvl11@gmail.com
-Phone: +91 8220108292
-Address: Saveetha Engineering College, Chennai, Tamil Nadu
+#### Email: lokeshrahulvl11@gmail.com
+#### Phone: +91 8220108292
+#### Address: Saveetha Engineering College, Chennai, Tamil Nadu

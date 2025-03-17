@@ -40,10 +40,10 @@ StockAnalyss is designed to provide accurate and up-to-date financial data, help
 ### 💱 USD Conversion Tracker
 ![Screenshot 2025-03-17 191738](https://github.com/user-attachments/assets/1ad9936f-40f4-44b1-a48c-eb3d07ad5128)
 
-### 📈 Mutual Funds Analytics
+### ₿ Crypto Market Overview
 ![Screenshot 2025-03-17 191745](https://github.com/user-attachments/assets/1bb7be22-2968-4178-8e8a-83d31bfc007a)
 
-### ₿ Crypto Market Overview
+### 📈 Mutual Funds Analytics
 ![Screenshot 2025-03-17 191751](https://github.com/user-attachments/assets/50327c4d-aea1-45df-81f3-9ff46b526be0)
 
 ### 20+ Finance Calculator

@@ -1,4 +1,4 @@
-![Screenshot 2025-03-17 191751](https://github.com/user-attachments/assets/df054651-0dc0-41ff-8ad3-e28336d36e90)# 🚀 StockAnalyss
+# 🚀 StockAnalyss
 StockAnalyss is  stock market tracking platform that provides live updates on Indian stocks, USD exchange rates, mutual funds, and cryptocurrency prices. The platform offers a seamless user experience with financial insights and authentication features.
 
 ## 🌍 Demo

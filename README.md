@@ -2,7 +2,7 @@
 StockAnalyss is  stock market tracking platform that provides live updates on Indian stocks, USD exchange rates, mutual funds, and cryptocurrency prices. The platform offers a seamless user experience with financial insights and authentication features.
 
 ## 🌍 Demo
-🔗 Live Demo 
+🔗 Live Demo (Available soon)
  # 📌 About StockAnalyss
 StockAnalyss is designed to provide accurate and up-to-date financial data, helping users track stock prices, currency exchange rates, mutual fund performance, and cryptocurrency trends all in one place.
 

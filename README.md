@@ -8,19 +8,19 @@ StockAnalyss is designed to provide accurate and up-to-date financial data, help
 
 # 🔑 Key Features
 ## 🚀 For Traders & Investors:
-### ✅ Live Stock Market Data – Track real-time Indian stock prices and trends.
-### ✅ USD Conversion Rates – Monitor the latest foreign exchange rates.
-### ✅ Mutual Fund Insights – Get detailed analytics on various mutual funds.
-### ✅ Crypto Price Tracking – Stay updated on Bitcoin, Ethereum, and other cryptocurrencies.
-### ✅ Interactive Dashboard – A visually appealing dashboard with live data visualization.
+#### ✅ Live Stock Market Data – Track real-time Indian stock prices and trends.
+#### ✅ USD Conversion Rates – Monitor the latest foreign exchange rates.
+#### ✅ Mutual Fund Insights – Get detailed analytics on various mutual funds.
+#### ✅ Crypto Price Tracking – Stay updated on Bitcoin, Ethereum, and other cryptocurrencies.
+#### ✅ Interactive Dashboard – A visually appealing dashboard with live data visualization.
 
 ### 💼 For Analysts & Researchers:
-### 📊 Stock History & Trends – Analyze past market data with AI-powered insights.
-### 📈 Market Predictions – AI-driven financial predictions for smart investments.
-### 🔍 Portfolio Management – Track your stocks, crypto, and mutual funds in one place.
-### 🔒 Secure User Authentication – Login via JWT authentication for personalized features.
+#### 📊 Stock History & Trends – Analyze past market data with AI-powered insights.
+#### 📈 Market Predictions – AI-driven financial predictions for smart investments.
+#### 🔍 Portfolio Management – Track your stocks, crypto, and mutual funds in one place.
+#### 🔒 Secure User Authentication – Login via JWT authentication for personalized features.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 # Frontend:
 ⚡ js | Html |  CSS | Chart.js
 

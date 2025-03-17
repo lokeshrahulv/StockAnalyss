@@ -22,7 +22,7 @@ StockAnalyss is designed to provide accurate and up-to-date financial data, help
 
 # 🛠️ Tech Stack
 # Frontend:
-⚡ js | Html |  CSS | Chart.js
+⚡ Node.js |  CSS | Chart.js
 
 # Backend:
 🔗  MongoDB | WebSockets for live updates
